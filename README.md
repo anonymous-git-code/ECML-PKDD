@@ -2,4 +2,4 @@
 
 MMCNN: A Multi branch Multi-scale Convolutional Neural Network for Motor Imagery Classification
 
-When our paper is accepted, we will open source
+When our paper is accepted, we will open source.
